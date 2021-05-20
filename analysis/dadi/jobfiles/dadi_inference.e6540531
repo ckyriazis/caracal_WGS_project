@@ -1,0 +1,548 @@
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
+Traceback (most recent call last):
+  File "/u/home/c/ckyriazi/project-klohmuel/moose_pipeline/scripts/analysis/dadi/1D.1Bottleneck.dadi.py", line 113, in <module>
+    outputFile=open(str(outdir)+"/"+str(pop)+".dadi.inference."+str(modelName)+".runNum."+str(runNum)++".output","w")
+TypeError: bad operand type for unary +: 'str'
+/u/home/c/ckyriazi/miniconda2/envs/demog/lib/python2.7/site-packages/dadi/Numerics.py:138: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  return arr[reverse_slice]
